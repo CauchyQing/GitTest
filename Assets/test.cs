@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class test : MonoBehaviour
 {
-    private string s = "First";
+    private string s = "Second";
     // Start is called before the first frame update
     void Start()
     {
