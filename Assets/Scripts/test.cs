@@ -5,10 +5,11 @@ using UnityEngine;
 public class test : MonoBehaviour
 {
     private string s = "Third";
-    //标记一下
+    public string str = "hello world";
     // Start is called before the first frame update
     void Start()
     {
+
         //test5
     }
 
